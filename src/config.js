@@ -1,0 +1,1 @@
+export const HOSTIP = 'http://108.162.155.44:9210'
