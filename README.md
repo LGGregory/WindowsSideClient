@@ -1,6 +1,8 @@
 
 # WindowsSide Client
 
+![Icon](windowside.png)
+
 This is the website client for a website that allows for remote control of computers running the WindowsSide program.
 
 On the Account page you can create an account or login.
