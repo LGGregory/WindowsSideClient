@@ -32,6 +32,7 @@ class Computers extends Component {
         return (
             <div>
                 <h2>Managed Computers</h2>
+                <div><a href="..\..\versions\WindowsSide 0.8.zip">Download app!</a></div>
                 <div>
                 {
                     this.state.computers.map((computer) => (

@@ -21,10 +21,10 @@ function App() {
       <div>
         <Header />
       </div>
-      <div className="c">
+      <div className="centered">
         <Route path="/" exact component={Index} />
-        <Route path="/login/" component={UserPage} />
-        <Route path="/computer/" component={Computers} />
+        <Route path="/login" component={UserPage} />
+        <Route path="/computer" component={Computers} />
       </div>
     </Router>
   );
